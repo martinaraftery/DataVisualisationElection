@@ -1,5 +1,5 @@
 ---
-title: "CT5100 Data Visualisation Assignment3"
+title: "Analysis of the 2016 and 2020 Galway West constituency Irish General Election Results"  
 author: ''
 date: "02/03/2020"
 output:
